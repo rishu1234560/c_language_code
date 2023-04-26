@@ -14,7 +14,7 @@ int main(){
             }
         }
         else{
-        printf("year is lipapoti");
+        printf("year is leap year");
 
         }
 
